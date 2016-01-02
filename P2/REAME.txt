@@ -1,0 +1,5 @@
+Dan Wortmann
+CS 368 Fall 2014
+P2
+
+Seems to work fine after testing, fingers crossed haha.
